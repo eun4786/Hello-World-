@@ -8,6 +8,7 @@ int main()
 	cout<<"qwerty\n";
 	cout<<"Hello, world!"<<endl;
 	cout<<"a"<<endl;
+	//asdf
 
 	return 0;
 }
