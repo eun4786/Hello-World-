@@ -1,0 +1,9 @@
+Debug/
+*.sdf
+*.suo
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.obj
